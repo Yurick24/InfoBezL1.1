@@ -49,6 +49,7 @@ namespace InfBez_lab1
                         i--;
                     }
                 }
+                richTextBox1.AppendText("\n");
             }
         }
     }
